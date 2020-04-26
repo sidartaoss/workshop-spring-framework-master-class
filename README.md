@@ -1,4 +1,4 @@
-# Spring Framework Master Class - Learn Spring the Modern Way!
+# Spring Framework Master Class
 
 ## Reference Documentation
 
